@@ -10,3 +10,6 @@ It's meant to be a way of sharing my findings with future me and others who migh
 
 The current organization is just a rough draft based on multiple markdown files, because I started on a thursday evening just randomly starting to type.
 Maybe I'll go for something more sophisticated later, but for now this is it.
+
+Here are some entries, with dates attached:
+2021-01-21: [Building self destructing Google cloud instances](./gcloud-self-destruct.md)
